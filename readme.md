@@ -1,4 +1,4 @@
-# Hi, I'm Niranjan 👋
+# Hi, I'm P Niranjan 👋
 
 🤖 Full Stack Developer specializing in **AI-integrated web applications**  
 🎓 MCA 2026 · Mangalam College of Engineering, Kerala  
