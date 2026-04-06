@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=P%20Niranjan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=200&section=header&text=P%20Niranjan&fontSize=60&fontColor=fff&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Web+Applications;Python+%26+Django+Backend+Engineer;Machine+Learning+%7C+Computer+Vision;MCA+2026+%7C+Open+to+Opportunities" alt="Typing SVG" />
