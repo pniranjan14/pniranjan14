@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-niranjan--portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://niranjan-portfolio-gold.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pniranjannn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pniranjannn)
 [![Email](https://img.shields.io/badge/Email-pniranjannsupriya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pniranjannsupriya@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-View%20%2F%20Download-10B981?style=for-the-badge)](https://drive.google.com/file/d/1-ZLbr498DJUGHR-kmnLtE-oPSiUOjYw0/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄_Resume-View%20%2F%20Download-10B981?style=for-the-badge)](https://drive.google.com/file/d/1Jnw7j9B2SMJwL6Rt7059IrJGw_NAi_Is/view)
 
 <br/>
 
@@ -212,7 +212,7 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-8B5CF6?style=for-the-badge)](https://niranjan-portfolio-gold.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pniranjannn)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pniranjannsupriya@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-10B981?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-ZLbr498DJUGHR-kmnLtE-oPSiUOjYw0/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Download-10B981?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Jnw7j9B2SMJwL6Rt7059IrJGw_NAi_Is/view)
 
 <br/>
 
