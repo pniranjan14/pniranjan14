@@ -16,5 +16,6 @@
 | [DocChat](https://github.com/pniranjan14/DocChat) | AI-powered document intelligence suite using high-speed RAG and FAISS |
 
 ## 📫 Connect with me
+[![Portfolio](https://img.shields.io/badge/Portfolio-PNiranjan-white)]((https://niranjan-portfolio-gold.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pniranjannn-blue)](https://linkedin.com/in/pniranjannn)
 [![Email](https://img.shields.io/badge/Email-pniranjannsupriya@gmail.com-red)](mailto:pniranjannsupriya@gmail.com)
