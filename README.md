@@ -174,10 +174,6 @@ Connects car owners with nearby service centres via **online booking & real-time
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pniranjan14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&ring_color=A78BFA" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pniranjan14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8" height="165"/>
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=pniranjan14&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
 
