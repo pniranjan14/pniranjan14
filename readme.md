@@ -13,6 +13,7 @@
 | [RoomDecor AI](https://github.com/pniranjan14/RoomDecor-AI) | AI interior redesign using ControlNet + Stable Diffusion |
 | [TrueDose](https://github.com/pniranjan14/TrueDose) | Medicine verification with CNN, OCR & QR scanning |
 | [DocuTrack](https://github.com/pniranjan14/DocuTrack) | Academic document portal with role-based auth |
+| [DocChat](https://github.com/pniranjan14/DocChat) | AI-powered document intelligence suite using high-speed RAG and FAISS |
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pniranjannn-blue)](https://linkedin.com/in/pniranjannn)
