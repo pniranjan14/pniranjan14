@@ -89,21 +89,64 @@ I specialise in building **robust, production-ready web applications** with Pyth
 <tr>
 <td width="50%" valign="top">
 
+### 🩺 [CuraLink AI](https://github.com/pniranjan14/curalink-ai)
+> *AI Medical Research Assistant*
+
+A full-stack AI health companion that takes a user's disease and location and returns **real-time, research-backed insights** sourced live from PubMed, OpenAlex, and ClinicalTrials.gov — zero hallucinations, every answer grounded in actual fetched data.
+
+**Stack:**
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Highlights:**
+- ⚡ Groq-powered context extraction + 3 parallel API retrievals simultaneously
+- 📊 BM25 ranking — fetches 60 results, filters to top 8 most relevant
+- 💬 Persistent multi-turn conversations with full session memory
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [DocChat](https://github.com/pniranjan14/DocChat)
+> *Chat With Your Documents*
+
+A premium AI document intelligence suite that lets you upload any document (PDF, DOCX, TXT) and have a **persistent, context-aware conversation** with it — powered by RAG with isolated chat sessions per document.
+
+**Stack:**
+![React](https://img.shields.io/badge/-React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square&logoColor=white)
+
+**Highlights:**
+- 🔍 LangChain + FAISS vector search for precise context retrieval
+- 📁 Isolated persistent chat sessions per uploaded document
+- 🎨 Sleek "Midnight Elite" glassmorphic UI with Framer Motion animations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏠 [RoomDecor AI](https://github.com/pniranjan14/RoomDecor-AI)
 > *AI-Powered Interior Redesign*
 
-Transform any room photo into a professionally styled space using **ControlNet + Stable Diffusion**. Upload a photo, pick a style, and get a stunning redesign in seconds.
+A premium interior design transformation engine that converts any room photo into a professionally styled space using **ControlNet (Canny) + Stable Diffusion**. Upload a photo, pick a style — Modern, Bohemian, Industrial, or Minimalist — and get a high-fidelity redesign in seconds.
 
 **Stack:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/-Stable_Diffusion-9333EA?style=flat-square)
-![ControlNet](https://img.shields.io/badge/-ControlNet-7C3AED?style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![ControlNet](https://img.shields.io/badge/-ControlNet-7C3AED?style=flat-square)
 
 **Highlights:**
-- 🎨 Style-conditioned image generation with ControlNet
-- ⚡ Real-time preview in the browser via React frontend
-- 🏗️ Clean API architecture separating ML inference from UI
+- 🎨 Canny edge detection preserves room structure & furniture layout
+- 🖼️ Side-by-side Before vs After comparison view
+- ⚡ Fine-tuned on `medmac01/beldi-moroccan-interior-2` + `lllyasviel/sd-controlnet-canny`
 
 </td>
 <td width="50%" valign="top">
@@ -111,7 +154,7 @@ Transform any room photo into a professionally styled space using **ControlNet +
 ### 💊 [TrueDose](https://github.com/pniranjan14/TrueDose)
 > *AI Medicine Verification Platform*
 
-A digital health platform that uses **CNN, OCR & QR scanning** to verify medicine authenticity and cross-check ingredients against user health profiles — preventing dangerous interactions.
+A digital health platform that uses **CNN, OCR & QR scanning** to verify medicine authenticity and cross-check ingredients against user health profiles — preventing dangerous drug interactions before they happen.
 
 **Stack:**
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -122,7 +165,7 @@ A digital health platform that uses **CNN, OCR & QR scanning** to verify medicin
 **Highlights:**
 - 🔬 CNN model for medicine image classification
 - 🔍 EasyOCR text extraction from medicine labels
-- 🛡️ User health profile safety cross-reference
+- 🛡️ User health profile safety cross-reference system
 
 </td>
 </tr>
@@ -132,7 +175,7 @@ A digital health platform that uses **CNN, OCR & QR scanning** to verify medicin
 ### 📂 [DocuTrack](https://github.com/pniranjan14/DocuTrack)
 > *Academic Document Management Portal*
 
-A secure, role-based academic document portal built with **Django** — replacing paperwork with a streamlined digital workflow for students, faculty, and administrators.
+A department-specific web portal built with **Django** that replaces manual paperwork with a streamlined digital workflow — covering submission, verification, and status tracking of student academic documents through role-based authentication.
 
 **Stack:**
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -142,8 +185,8 @@ A secure, role-based academic document portal built with **Django** — replacin
 
 **Highlights:**
 - 🔐 Role-based access control (Student / Faculty / Admin)
-- 📋 Document submission, verification & status tracking
-- 📁 Centralised secure document storage
+- 📋 Document submission, verification & real-time status tracking
+- 📁 Centralised secure document storage with Django ORM
 
 </td>
 <td width="50%" valign="top">
@@ -151,7 +194,7 @@ A secure, role-based academic document portal built with **Django** — replacin
 ### 🚗 [AutoConnect](https://github.com/pniranjan14/AutoConnect)
 > *Vehicle Service Automation Platform*
 
-Connects car owners with nearby service centres via **online booking & real-time service tracking**, with distinct portals for users, service providers, and administrators.
+A web-based platform that connects car owners with nearby service centres via **online booking & real-time service tracking**, with distinct portals for users, service providers, and administrators.
 
 **Stack:**
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -161,8 +204,8 @@ Connects car owners with nearby service centres via **online booking & real-time
 
 **Highlights:**
 - 📍 Nearby service centre discovery
-- 📅 Online booking & real-time job tracking
-- 👥 Multi-role portal (User / Provider / Admin)
+- 📅 Online booking & real-time job status tracking
+- 👥 Multi-role portal (User / Service Provider / Admin)
 
 </td>
 </tr>
