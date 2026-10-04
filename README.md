@@ -11,9 +11,9 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-niranjan--portfolio-8B5CF6?style=for-the-badge&logoColor=white)](https://niranjan-portfolio-gold.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pniranjannn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pniranjannn)
 [![Email](https://img.shields.io/badge/Email-pnjnsupriya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnjnsupriya@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-View%20%2F%20Download-10B981?style=for-the-badge)]([https://drive.google.com/file/d/1PN8ijQoMCWvB_UWhN2tuCu8JMG_JtVpu/])
+[![Resume](https://img.shields.io/badge/📄_Resume-View%20%2F%20Download-10B981?style=for-the-badge)](https://drive.google.com/file/d/1PN8ijQoMCWvB_UWhN2tuCu8JMG_JtVpu/view)
 
-<br/> 
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pniranjan14&color=8B5CF6&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/pniranjan14?style=flat-square&color=8B5CF6&label=Followers)
@@ -295,7 +295,7 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-8B5CF6?style=for-the-badge)](https://niranjan-portfolio-gold.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pniranjannn)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnjnsupriya@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-10B981?style=for-the-badge&logo=googledrive&logoColor=white)]([https://drive.google.com/file/d/1PN8ijQoMCWvB_UWhN2tuCu8JMG_JtVpu/])
+[![Resume](https://img.shields.io/badge/Resume-Download-10B981?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1PN8ijQoMCWvB_UWhN2tuCu8JMG_JtVpu/view)
 
 <br/>
 
